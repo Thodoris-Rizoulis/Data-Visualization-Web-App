@@ -2,7 +2,7 @@ Data-vizualization-Web-app
 ---------------------------------------------------------------
 
 
-Description
+Description:
 
 This project is getting data from a database and vizualize them.
 
