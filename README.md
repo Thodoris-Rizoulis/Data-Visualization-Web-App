@@ -1,18 +1,19 @@
 Data-vizualization-Web-app
+---------------------------------------------------------------
 
 
 Description
 
 This project is getting data from a database and vizualize them.
 
-
+---------------------------------------------------------------
 Installation:
 
 Install MySQL(Server and workbench).
 
 Install NodeJs.
 
-
+---------------------------------------------------------------
 Usage:
 
 Unzip /src 
