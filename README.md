@@ -1,14 +1,24 @@
 Data-vizualization-Web-app
 
-Description: \n
-This project is getting data from a database and vizualize them. \n
 
-Installation: \n
-Install MySQL(Server and workbench).\n
-Install NodeJs.\n
+Description
 
-Usage:\n
-Unzip /src .\n
-Put your own sql server username and password on /src/main.js .\n
-Open terminal on /src folder and run node main.js .\n
-Open your browser and go on localhost:3000 .\n /n
+This project is getting data from a database and vizualize them.
+
+
+Installation:
+
+Install MySQL(Server and workbench).
+
+Install NodeJs.
+
+
+Usage:
+
+Unzip /src 
+
+Put your own sql server username and password on /src/main.js .
+
+Open terminal on /src folder and run node main.js .
+
+Open your browser and go on localhost:3000 .
